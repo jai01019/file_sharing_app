@@ -46,8 +46,7 @@ MongoDB (Local or Cloud)
 
 🔹 Clone the Repository
 
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/jai01019/file_sharing_app.git
 
 🔹 Backend Setup
 
